@@ -3,8 +3,8 @@
   <a href="https://github.com/Kuldeep-P9/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20AWS%20;Likes%20more%20Codechef;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br/>
-
-## :sassy_man:  About me
+<b>Linked Tree URL:</b> https://linktr.ee/kuldeep9327 <br/>
+:sassy_man:  <b>About me</b>
 - :school: I am a Student at `LD Engineering College Ahmedabad`
 - :technologist: I love using Software as a solution for every `Problems`
 - :computer: I am a competitive programmer mainly at `Codechef`
