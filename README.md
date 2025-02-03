@@ -5,11 +5,11 @@
 <br/>
 <b>Linked Tree URL:</b> https://linktr.ee/kuldeep9327 <br/>
 :sassy_man:  <b>About me</b>
-- :school: I am a Student at `LD Engineering College Ahmedabad`
+- :school: I am a Student at `NFSU Gandhinagar`
 - :technologist: I love using Software as a solution for every `Problems`
-- :computer: I am a competitive programmer mainly at `Codechef`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
+- :computer: I am a competitive CTF player mainly in `TryHackMe & HTB`
+- :student: I’m currently learning: `Computer Security` and `Cybersecurity`.
+- :nerd_face: Always `hunting new things`
 
 <br>
 
